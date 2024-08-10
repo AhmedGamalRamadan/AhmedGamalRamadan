@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamalramadan" alt="ahmedgamalramadan" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin Multi-platform KMP**
+- 🌱 I’m currently learning **Kotlin Multi-Platform KMP**
 - 💬 Ask me about **Android ,Kotlin,Jetpack Compose**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AhmedGamalRamadan?tab=repositories)**.
 
