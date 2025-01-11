@@ -6,8 +6,8 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamalramadan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamalramadan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamalramadan" alt="ahmedgamalramadan" /></a> </p>
+                                                                                  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamalramadan&theme=tokyonight" alt="ahmedgamalramadan" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin Multi-Platform KMP**
 - 💬 Ask me about **Android ,Kotlin,Jetpack Compose**
@@ -37,7 +37,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedgamalramadan&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmedgamalramadan" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamalramadan&show_icons=true&theme=dark&locale=en" alt="ahmedgamalramadan" /></p>
 
